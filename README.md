@@ -1,5 +1,4 @@
-# Object-Detection
-Real time object detection using tensorflow lite
+# Real time object detection using tensorflow lite
 
 1.First install Android Studio(try to install the latest version).
 
