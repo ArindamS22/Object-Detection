@@ -2,6 +2,7 @@
 
 Object Detection:We know for real time object detection,we use YOLO Algorithm which reduces significant time complexity rather than sequential pass of convolution neuralnet in each of the predefined rectanglular grids.
 
+Now to make this Andriod app.We need to follow some steps:
 
 1.First install Android Studio(try to install the latest version).
 
